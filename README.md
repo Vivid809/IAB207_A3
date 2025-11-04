@@ -45,7 +45,8 @@ cd IAB207_A3
 pip install -r requirements.txt
 ```
 3. Initialize the database
-```bashpython create_db.py
+```bash
+python create_db.py
 ```
 4. Run the Flask application
 ```bash
